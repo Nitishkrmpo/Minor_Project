@@ -6,6 +6,7 @@ from src.constants import SESSION_PRODUCT_KEY
 import google.generativeai as genai
 from streamlit.components.v1 import html
 
+
 # Set Streamlit page configuration
 st.set_page_config(
     page_title="🌍 Regional Language Case Study",
